@@ -1,6 +1,13 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
+import vercel from '@astrojs/vercel/serverless';
 
+export default defineConfig({
+  output: 'server',
+  adapter: vercel({
+    webAnalytics: { enabled: true }
+  }),
+});
 import { defineConfig } from 'astro/config';
 
 import sitemap from '@astrojs/sitemap';
