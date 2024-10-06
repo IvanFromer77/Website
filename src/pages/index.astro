@@ -1,6 +1,13 @@
 ---
 import Layout from '~/layouts/PageLayout.astro';
+import vercel from '@astrojs/vercel/serverless';
 
+export default defineConfig({
+  output: 'server',
+  adapter: vercel({
+    webAnalytics: { enabled: true }
+  }),
+});
 import Hero from '~/components/widgets/Hero.astro';
 import Note from '~/components/widgets/Note.astro';
 import Features from '~/components/widgets/Features.astro';
