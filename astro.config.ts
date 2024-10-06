@@ -1,3 +1,5 @@
+npm i @vercel/analytics
+
 import path from 'path';
 import { fileURLToPath } from 'url';
 import vercel from '@astrojs/vercel/serverless';
