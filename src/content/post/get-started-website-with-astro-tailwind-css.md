@@ -13,7 +13,18 @@ tags:
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
-
+<meta property="name="title"" content="Vídeo: Olha o Voto: quinto episódio da série dá detalhes sobre o que pode no dia da votação | Bom Dia Rio | G1" />
+<meta property="name="description"" content="Último episódio aborda as principais dúvidas dos eleitores e fala sobre as mudanças para as eleições desse ano." />
+<meta property="property="og:type" content="website" />
+<meta property="property="og:url"" content="https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/video/olha-o-voto-quinto-episodio-da-serie-da-detalhes-sobre-o-que-pode-no-dia-da-votacao-12979352.ghtml" />
+<meta property="property="og:title"" content="Vídeo: Olha o Voto: quinto episódio da série dá detalhes sobre o que pode no dia da votação | Bom Dia Rio | G1" />
+<meta property="property="og:description"" content="Último episódio aborda as principais dúvidas dos eleitores e fala sobre as mudanças para as eleições desse ano." />
+<meta property="property="og:image"" content="https://replug.io/images/example.png" />
+<meta property="property="twitter:card"" content="summary_large_image" />
+<meta property="property="twitter:url"" content="https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/video/olha-o-voto-quinto-episodio-da-serie-da-detalhes-sobre-o-que-pode-no-dia-da-votacao-12979352.ghtml" />
+<meta property="property="twitter:title"" content="Vídeo: Olha o Voto: quinto episódio da série dá detalhes sobre o que pode no dia da votação | Bom Dia Rio | G1" />
+<meta property="property="twitter:description"" content="Último episódio aborda as principais dúvidas dos eleitores e fala sobre as mudanças para as eleições desse ano." />
+<meta property="property="twitter:image"" content="https://replug.io/images/example.png" />
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Nostra torquent consequat volutpat aliquet neque
