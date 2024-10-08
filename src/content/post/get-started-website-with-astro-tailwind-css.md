@@ -1,7 +1,7 @@
 ---
 publishDate: 2023-08-12T00:00:00Z
 author: Ivan Fromer
-title: Olha o Voto: quinto episódio da série dá detalhes sobre o que
+title: Olha o Voto - quinto episódio da série dá detalhes sobre o que
 excerpt: Último episódio aborda as principais dúvidas dos eleitores e fala sobre as mudanças para as eleições desse ano. g1.globo.com/rj/rio-...
 
 image: ~/assets/images/Screenshot_20240522-133653_Chrome.jpg
