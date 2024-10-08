@@ -1,15 +1,15 @@
 ---
 publishDate: 2023-08-12T00:00:00Z
 author: Ivan Fromer
-title: Get started with AstroWind to create a website using Astro and Tailwind CSS
-excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CSS for a stunning site. Explore our guide now.
+title: Olha o Voto: quinto episódio da série dá detalhes sobre o que
+excerpt: Último episódio aborda as principais dúvidas dos eleitores e fala sobre as mudanças para as eleições desse ano. g1.globo.com/rj/rio-...
 
 image: ~/assets/images/Screenshot_20240522-133653_Chrome.jpg
 
-category: Tutorials
+category: Jornalismo
 tags:
-  - astro
-  - tailwind css
+  - Journalimo
+  - TV GLOBO
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
